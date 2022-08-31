@@ -24,6 +24,7 @@ This project is licensed under the MIT license. Please click here for more info:
 If you have any questions about the repository or about this application please send an email to: rochalupe@gmail.com
 - Github: grocha78
 ## Heroku LiveURL Link
+https://not-another-tech-blog-78.herokuapp.com/
 
 ## Screenshots
 <img width="550" alt="Screen Shot 2022-08-30 at 5 21 21 PM" src="https://user-images.githubusercontent.com/105673691/187555657-9719c4e5-5149-4746-bf2c-b4ea0c9ef950.png">
